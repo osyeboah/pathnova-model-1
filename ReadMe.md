@@ -1,3 +1,6 @@
+# Author - Samuel Yeboah Osafo
+# AI Engineer- Pathnova AI
+
 # Pathnova AI – Model 1: Goal Feasibility Predictor
 
 This project contains the full training pipeline for **Model 1** of the Pathnova AI system — the **Goal Feasibility Predictor**.
